@@ -29,7 +29,7 @@ const contactPage = () => {
           </div> */}
 
           <div className="flex">
-            <Mail /><span className="ml-5"><a href="mailto: biswash.khayargoli@gmail.com" /></span>
+            <Mail /><span className="ml-5"><a href="mailto: biswash.khayargoli@gmail.com" />biswash.khayargoli@gmail.com</span>
           </div>
         </p>
 
