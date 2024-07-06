@@ -3,11 +3,12 @@ import { Facebook, Linkedin, Twitter, ExternalLink } from "lucide-react";
 import { buttonVariants } from "./ui/button";
 import Link from "next/link";
 import Image from "next/image";
+import Upwork from "@/public/upwork.png";
 
 const SocialLinks = () => {
   const links = [
     { name: "Linkedin", link: "https://www.linkedin.com/in/biswas-khayargoli-8a50a8b7/", icon: <Linkedin /> },
-    { name: "Upwork", link: "https://www.upwork.com/freelancers/~01459b52cca83e532c", icon: <Image src="/upwork.png" alt="Upwork" width={60} height={60} /> },
+    { name: "Upwork", link: "https://www.upwork.com/freelancers/~01459b52cca83e532c", icon: <Image src={Upwork} alt="Upwork" width={60} height={60} /> },
   ];
   return (
     <>
