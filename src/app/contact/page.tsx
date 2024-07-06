@@ -6,6 +6,7 @@ import {
   Phone,
   Mail
 } from "lucide-react";
+import Link from "next/link";
 
 const contactPage = () => {
   return (
@@ -29,7 +30,7 @@ const contactPage = () => {
           </div> */}
 
           <div className="flex">
-            <Mail /><span className="ml-5"><a href="mailto: biswash.khayargoli@gmail.com" />biswash.khayargoli@gmail.com</span>
+            <Mail /><span className="ml-5"><Link href="mailto: biswash.khayargoli@gmail.com">biswash.khayargoli@gmail.com </Link></span>
           </div>
         </p>
 
