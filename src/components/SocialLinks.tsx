@@ -3,7 +3,7 @@ import { Facebook, Linkedin, Twitter, ExternalLink } from "lucide-react";
 import { buttonVariants } from "./ui/button";
 import Link from "next/link";
 import Image from "next/image";
-import Upwork from "@/public/upwork.png";
+import Upwork from "public/upwork.png";
 
 const SocialLinks = () => {
   const links = [
