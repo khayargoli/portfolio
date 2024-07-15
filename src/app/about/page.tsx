@@ -30,8 +30,7 @@ const page = () => {
           Collaborated on various projects with clients globally, including <Link href="https://www.woerk.app/"><b>WÖrk</b></Link> (Germany), <Link href="https://baako.com/en/"><b>BAAKO GmbH</b></Link> (Germany), <b>Houm Technology</b> (India), <Link href="https://blueskysoftware.co.uk/"><b>BlueSkySoftwares</b></Link> (UK), <b>LAF® Space</b> (UK) and <Link href="https://www.keybalance.dk/"><b>KeyBalance</b></Link> (Denmark).
         </p>
       </div>
-      <br/>
-          <br/>
+      <br/>]
       <div className="w-full flex flex-row justify-between max-lg:flex-col ">
         <Aboutfooter />
       </div>
