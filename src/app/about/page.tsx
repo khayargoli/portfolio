@@ -38,7 +38,7 @@ const page = () => {
           I have collaborated on various projects with clients globally, including <Link href="https://www.woerk.app/"><b>WÖrk</b></Link> (Germany), <Link href="https://baako.com/en/"><b>BAAKO GmbH</b></Link> (Germany), <b>Houm Technology</b> (India), <Link href="https://blueskysoftware.co.uk/"><b>BlueSkySoftwares</b></Link> (UK), <b>LAF® Space</b> (UK) and <Link href="https://www.keybalance.dk/"><b>KeyBalance</b></Link> (Denmark).
           <br />
           <br />
-          It's important to me to build long term relationships with clients. I am flexible with my working hours, and I am happy to work closely with any existing freelancers you work with.
+          It is important to me to build long term relationships with clients. I am flexible with my working hours, and I am happy to work closely with any existing freelancers you work with.
 
 
           <br /> <br />
