@@ -1,13 +1,13 @@
 import Heading from "@/components/Heading";
 import { Badge } from "@/components/ui/badge";
-import { Briefcase } from "lucide-react";
+import { GraduationCap } from "lucide-react";
 
 const educationPage = () => {
   return (
     // ABOUT PAGE
     <div className="h-full w-full relative flex flex-col items-start gap-0 overflow-hidden">
       <Badge className=" gap-2">
-        <Briefcase className="h-5 w-5" />
+        <GraduationCap className="h-5 w-5" />
         Education
       </Badge>
       <br/>

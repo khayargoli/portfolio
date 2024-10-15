@@ -23,18 +23,34 @@ const page = () => {
           Seasoned Web and<br /> Mobile Developer
         </Heading>
 
-        <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg">
-          Experienced software developer with a demonstrated history of working in the information technology, passion for building web and mobile applications with over 8 years of experience. 
-          <br/>
-          <br/>
-          Collaborated on various projects with clients globally, including <Link href="https://www.woerk.app/"><b>WÖrk</b></Link> (Germany), <Link href="https://baako.com/en/"><b>BAAKO GmbH</b></Link> (Germany), <b>Houm Technology</b> (India), <Link href="https://blueskysoftware.co.uk/"><b>BlueSkySoftwares</b></Link> (UK), <b>LAF® Space</b> (UK) and <Link href="https://www.keybalance.dk/"><b>KeyBalance</b></Link> (Denmark).
+        ➡️💻 Front-end Development: Next.js, React, HTML/CSS, Tailwind, Zustand, Angular, TypeScript <br />
+        ➡️📱 Flutter, Dart, Bloc, Android (Java) <br />
+        ➡️ Over 8+ Years of Experience <br />
+        ➡️ Committed Full-Time Freelancer, Available Over 40 Hours Per Week <br />
+        ➡️ Passionate Problem Solver and Innovative Thinker <br />
+        <br />
+        <p className=" font-poppins text-xl w-full md:w-[80%] text-primary max-sm:text-lg text-justify">
+
+          👋 Hey, there!
+          <br />
+          <br />
+          As a seasoned software engineer with a passion for developing both web and mobile applications, I bring to the table 8+ years of rich, hands-on experience in this dynamic field. <br /><br />My expertise is particularly strong in React, Next.js, Angular, Tailwind CSS, TypeScript / JavaScript, and Flutter, skills that I have honed through extensive practice and continuous learning.
+          I have collaborated on various projects with clients globally, including <Link href="https://www.woerk.app/"><b>WÖrk</b></Link> (Germany), <Link href="https://baako.com/en/"><b>BAAKO GmbH</b></Link> (Germany), <b>Houm Technology</b> (India), <Link href="https://blueskysoftware.co.uk/"><b>BlueSkySoftwares</b></Link> (UK), <b>LAF® Space</b> (UK) and <Link href="https://www.keybalance.dk/"><b>KeyBalance</b></Link> (Denmark).
+          <br />
+          <br />
+          It's important to me to build long term relationships with clients. I am flexible with my working hours, and I am happy to work closely with any existing freelancers you work with.
+
+
+          <br /> <br />
+
+
         </p>
       </div>
-      <br/>
+      <br />
       <div className="w-full flex flex-row justify-between max-lg:flex-col ">
         <Aboutfooter />
       </div>
-      <div className="block">
+      {/* <div className="block">
         <h1 className="gap-2 text-3xl font-poppins text-primary font-semibold flex icon_underline relative max-sm:text-2xl">
           {" "}
           <Heart className="h-8 w-8" /> Hobbies
@@ -51,7 +67,7 @@ const page = () => {
             );
           })}
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

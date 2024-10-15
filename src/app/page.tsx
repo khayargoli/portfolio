@@ -24,7 +24,7 @@ export default function Home() {
        {/* <DownLoadResumeBtn/> */}
       </div>
       {/* RIGHT SIDE image  */}
-      <div className="h-full w-[47%] relative block max-lg:hidden">
+      <div className="h-full w-[37%] relative block max-lg:hidden">
        
       {/* IMAGE  */}
         <HeroImage />
