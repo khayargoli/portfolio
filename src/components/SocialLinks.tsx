@@ -7,7 +7,7 @@ import Upwork from "public/upwork.png";
 
 const SocialLinks = () => {
   const links = [
-    { name: "Linkedin", link: "https://www.linkedin.com/in/biswas-khayargoli-3311biswas", icon: <Linkedin /> },
+    // { name: "Linkedin", link: "https://www.linkedin.com/in/biswas-khayargoli-3311biswas", icon: <Linkedin /> },
     { name: "Upwork", link: "https://www.upwork.com/freelancers/~01459b52cca83e532c", icon: <Image src={Upwork} alt="Upwork" width={60} height={60} /> },
   ];
   return (
