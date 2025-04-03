@@ -3,7 +3,7 @@
 import SocialLinks from "@/components/SocialLinks";
 import HeroTexts from "@/components/HeroTexts";
 import HeroImage from "@/components/HeroImage";
-import GithubBtn from "@/components/GithubBtn";
+//import GithubBtn from "@/components/GithubBtn";
 import DownLoadResumeBtn from "@/components/DownLoadResumeBtn";
 
 export const siteConfig = {
@@ -30,8 +30,8 @@ export default function Home() {
         <HeroImage />
       </div>
      
-      {/* GITHUB BUTTON  */}
-    //  <GithubBtn/>
+      {/* GITHUB BUTTON  <GithubBtn/>  */}
+    
       </>
   );
 }
